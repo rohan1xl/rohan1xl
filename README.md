@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 It's me Rohan kumar
 
-<!--
-**rohan1xl/rohan1xl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                 
+- 🌱 I’m currently learning DSA
 
-Here are some ideas to get you started:
+- 🤔 I’m looking for help with Data science
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rohan-kumar-81590b30b)
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I know German.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+
+
+### 💻 Workspace Spec
+ <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+
+![Rohan's GitHub stats]([![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan1xl&bg_color=050505&color=f1eef1&line=4b1147&point=f4f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/rohan_codxo?theme=dark&font=Noto%20Sans%20Tagbanwa&ext=heatmap))
+
